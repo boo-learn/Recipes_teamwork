@@ -1,11 +1,10 @@
 # Список рецептов:
 
 - Основные блюда:
-	- [Курица «Пикассо»](picasso.md)
-	- [Картофель «Айдахо»](aidaho.md)
+	- [Курица «Пикассо»](picasso.md)![Alt text](img/p_O.png.webp)
+	- [Картофель «Айдахо»](aidaho.md)![Alt text](img/aidaho.png.webp)
 - Выпечка:
-	- [Брауни](brownie.md)
-	- [Банановые панкейки](banana.md)
+	- [Брауни](brownie.md)![Alt text](img/brownie.webp)
+	- [Банановые панкейки](banana.md)![Alt text](img/banana.webp)
 - Десерты:
-	- [Банановый хлеб](banana.md)
-	- [Пирог «Зебра»](zebra.md)
+	- [Пирог «Зебра»](zebra.md)![Alt text](img/zebra.webp)
